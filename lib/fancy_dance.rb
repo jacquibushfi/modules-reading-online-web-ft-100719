@@ -3,6 +3,7 @@ module FancyDance
     def superjump
       "I'm just one jumping instance"
     end
+    include Dance
   end
   module ClassMethods                 # you "extend" these class methods
     def megajump
