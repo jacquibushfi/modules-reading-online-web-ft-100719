@@ -9,5 +9,6 @@ module FancyDance
     def megajump
       "I'm a whole class of MOFO's jumping"
     end
+    extend MetaDancing
   end
 end
