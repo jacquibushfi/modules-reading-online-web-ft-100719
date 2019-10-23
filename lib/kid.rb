@@ -12,4 +12,4 @@ class Kid
   end
 end
 
-end
+
